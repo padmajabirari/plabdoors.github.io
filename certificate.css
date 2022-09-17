@@ -1,0 +1,45 @@
+/* navbar cha brand line no 21 */
+.navbar-brand{
+    font-size: 20px;
+
+}
+
+/* line no 34 navbar che item*/
+.nav-item{
+    padding: 10px;
+    line-height: 0%;
+}
+.nav-item:hover{
+    border: 1px black solid;
+    border-radius: 100px;
+    
+}
+/* line no 60 */
+.brandhead{
+    padding-left: 30px;
+}
+/* para line no 59 */
+.para{
+    padding-left: 250px;
+}
+b{
+    padding-left: 30px;
+}
+/* line no 103 */
+.foot{
+    height: 300px;
+    width: 90%;
+    color: white;
+    padding-top: 40px;
+    padding-left: 140px;
+    margin-right: 20%;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+}
+li a:hover{
+    color: white;
+} 

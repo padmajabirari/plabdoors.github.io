@@ -1,0 +1,159 @@
+
+
+/* navbar cha brand line no 22 */
+.navbar-brand{
+    font-size: 20px;
+
+}
+
+/* line no 32 navbar che item*/
+.nav-item{
+    padding: 10px;
+    line-height: 0%;
+}
+.nav-item:hover{
+    border: 1px black solid;
+    border-radius: 100px;
+    
+}
+/* line no 59 head section */
+.head{
+    background-image:url("img2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+/* line no 66 sarv img sathi */
+.proimg{
+    padding-top: 25px;
+    padding-left: 30px;
+}
+/* line no 91 ranking ch button  */
+.rankbtn{
+    margin-top: 70px;
+    margin-left: 45px;
+}
+/* line no 98 , 4 caard  */
+.crdbox{
+    display: flex;
+    padding: 6px;
+    margin-top: 30px;
+    
+}
+.card:hover{
+    background-color: lightgray;
+}
+/* svgg img flex line no 126*/
+.svgimg{
+    background-color: rgb(246, 237, 237);
+    padding-left: 50px;
+}
+.svimg{
+    padding-left: 110px;
+    margin-top: 20px;
+
+}
+.svhead{
+    margin-top: 20px;
+    padding-left: 90px;
+}
+.para{
+    justify-content: center;
+    text-align:justify
+}
+/* how work line no 144 */
+.work{
+    background-image: url(m1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 530px;
+    opacity: 1.90;
+    
+}
+.workhead{
+    color: white;
+    padding-left: 35%;
+    padding-top: 60px;
+}
+.workhead1{
+    color: white;
+    padding-left: 42%;
+    padding-top: 20px;
+    
+}
+.workpara{
+    color: white;
+    width: 100%;
+    padding-left: 2%;
+    padding-top:35px ;
+    text-align: center;
+}
+/* testing line no 155 */
+.test{
+    background-image: url(m2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 400px;
+    opacity: 1.90;
+    
+}
+.testhead{
+    color: black;
+    padding-left:27%;
+    padding-top: 60px;
+}
+.testhead1{
+    color:black;
+    padding-left: 35%;
+    padding-top: 15px;
+    
+}
+.testkpara{
+    color: black;
+    width: 100%;
+    padding-top:30px ;
+    text-align: center;
+}
+/* client logo line no 164 */
+.client{
+   height: 200px;
+   padding-top: 20px;
+   padding-left:10%;
+   }
+    .centa{
+        padding-left: 50px;
+       
+    }
+    .centb{
+        padding-left: 50px;
+    }
+    .centc{
+        padding-left: 50px;
+    }
+    .centd{
+        padding-left: 50px;
+    }
+    .cente{
+        padding-left: 50px;
+    }
+    .centf{
+        padding-left: 50px;
+    }
+    /* 184 footer */
+.foot{
+    height: 300px;
+    width: 90%;
+    color: white;
+    padding-top: 40px;
+    padding-left: 140px;
+    margin-right: 20%;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+}
+li a:hover{
+    color: white;
+} 
